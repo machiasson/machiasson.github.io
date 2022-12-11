@@ -10,7 +10,7 @@ My GitHub page is http://github.com/machiasson.
 
 * Lab 3
 
-    LLab 3, part 1 was one of my favorite labs. In this lab we converted units from milliliters into teaspoons, tablespoons, ounces, and cups. I enjoyed this lab because unit conversions are something that is very relevant in our daily lives, and writing code to automate an everyday task is interesting to me.
+    Lab 3, part 1 was one of my favorite labs. In this lab we converted units from milliliters into teaspoons, tablespoons, ounces, and cups. I enjoyed this lab because unit conversions are something that is very relevant in our daily lives, and writing code to automate an everyday task is interesting to me.
 
 * Lab 5
 
